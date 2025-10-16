@@ -91,5 +91,5 @@ Example:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Disease-Prediction-and-Medicine-Recommendation.git
+   git clone https://github.com/SatyanarayanaG2908/Disease-Prediction-and-Medicine-Recommendation-System
    cd Disease-Prediction-and-Medicine-Recommendation
